@@ -1,5 +1,5 @@
-﻿ID;Name;ProductCategory;ProductGroup;ProductManager
-PR-1000;Data Warehouse Cloud;2;2;400000010
+ID;Name;ProductCategory;ProductGroup;ProductManager
+PR-1000;Data Warehouse Cloud;1;2;400000010
 PR-1001;HANA Cloud;1;2;400000011
 PR-1002;Analytics Cloud;3;2;400000012
 PR-1003;Analytics Cloud Planning;3;2;400000013
